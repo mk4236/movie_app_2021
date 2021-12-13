@@ -40,5 +40,6 @@
   },
   "devDependencies": {
     "prettier": "^2.5.1"
-  }
+  },
+  "homepage": "https://mk4236.github.io/movie_app_2021"
 }
